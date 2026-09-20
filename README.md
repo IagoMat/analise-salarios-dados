@@ -55,12 +55,12 @@ Analisar um dataset real de salários da área de dados para extrair insights so
 
 ## 🚀 Como executar
 
-1. Acesse o notebook pelo Google Colab:
+## 🚀 Como executar
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IagoMat/analise-salario-dados/blob/main/analise_salarios_dados.ipynb)
-
-2. Execute as células em ordem sequencial
-3. Todas as dependências já estão disponíveis no Colab, exceto `pycountry` — instalado via `pip` dentro do próprio notebook
+1. Acesse o [Google Colab](https://colab.research.google.com)
+2. Faça upload do arquivo `analise_salarios_dados.ipynb`
+3. Execute as células em ordem sequencial
+4. Todas as dependências já estão disponíveis no Colab, exceto `pycountry` — instalada via `pip` dentro do próprio notebook
 
 ---
 
