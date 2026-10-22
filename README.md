@@ -60,13 +60,13 @@ Analisar um dataset real de salários da área de dados para extrair insights so
 1. Acesse o [Google Colab](https://colab.research.google.com)
 2. Faça upload do arquivo `analise_salarios_dados.ipynb`
 3. Execute as células em ordem sequencial
-4. Todas as dependências já estão disponíveis no Colab, exceto `pycountry` — instalada via `pip` dentro do próprio notebook
+4. Todas as dependências já estão disponíveis no Colab, exceto `pycountry` instalada via `pip` dentro do próprio notebook
 
 ---
 
 ## 📚 Contexto
 
-Projeto desenvolvido na **Imersão Dados com Python** da Alura — evento gratuito focado em análise de dados com Python, cobrindo desde exploração até visualizações interativas com Plotly.
+Projeto desenvolvido na **Imersão Dados com Python** da Alura evento gratuito focado em análise de dados com Python, cobrindo desde exploração até visualizações interativas com Plotly.
 
 ---
 
